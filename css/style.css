@@ -1,0 +1,238 @@
+                * {
+                    margin: 0px;
+                    padding: 0px;
+                    outline: none;
+                }
+                
+                body {
+                    font-family: 'Poppins', sans-serif !important;
+                    margin: 0px;
+                    padding: 0px;
+                    overflow-x: hidden;
+                    width: 100%;
+                }
+                
+                h2 {
+                    font-family: 'Poppins', sans-serif;
+                    font-weight: 600;
+                }
+                
+                .container-hompage {
+                    background-color: #363b82;
+                    height: 655px;
+                }
+                
+                button {
+                    width: 110px;
+                    padding: 6px 0;
+                    text-align: center;
+                    margin: 20px 10px;
+                    border-radius: 4px;
+                    font-weight: bold;
+                    border: 1px black;
+                    background: darkblue;
+                    color: white;
+                    font-size: 18px;
+                    font-family: sans-serif;
+                    cursor: pointer;
+                    position: relative;
+                    overflow: hidden;
+                }
+                
+                .logo {
+                    width: 200px;
+                    padding: 20px 80px;
+                    position: absolute;
+                }
+                
+                .social-links img {
+                    margin: 8px;
+                    cursor: pointer;
+                }
+                
+                .navbar-nav {
+                    margin-left: auto;
+                }
+                
+                .social-links {
+                    text-align: center;
+                }
+                
+                .flex-container {
+                    background-color: ghostwhite;
+                    width: 100%;
+                    display: flex;
+                    justify-content: space-between;
+                    padding: 8px;
+                    border-radius: 5px;
+                }
+                
+                .flex-container>div {
+                    background-color: ghostwhite;
+                    color: black;
+                    display: flex;
+                    margin: 5px;
+                    padding: 5px;
+                }
+                
+                .left {
+                    float: left;
+                    font-size: 18px;
+                }
+                
+                .right {
+                    float: right;
+                    font-size: 18px;
+                }
+                
+                .jobpage-content-invert-bg {
+                    background-color: #363b82;
+                }
+                
+                .col-1-jobpage1-content h2 {
+                    font-size: 55px;
+                    color: white;
+                }
+                
+                .col-1-jobpage1-content p {
+                    font-size: 20px;
+                    color: white;
+                    margin-top: 55px;
+                }
+                
+                .homepage-content-white-bg {
+                    background-color: lightgrey;
+                }
+                
+                .button-type {
+                    width: auto;
+                    background-color: lightgray;
+                    color: black;
+                    border-radius: 5px;
+                    font-size: 12px;
+                }
+                
+                .box-shadow {
+                    box-shadow: 2px 7px 25px 15px rgba(0, 0, 0, .05)!important;
+                    border-radius: 0.5rem;
+                    background: white!important;
+                }
+                
+                .pa-3 {
+                    padding: 16px 16px !important;
+                }
+                
+                .homepage-content-download {
+                    background-color: #363b82;
+                }
+                
+                .btn-group {
+                    width: 35%;
+                    border-radius: 8px;
+                    background-color: #5c6bc0;
+                }
+                
+                .getin-btn-group {
+                    width: 16%;
+                    background-color: black;
+                    border-radius: 8px;
+                }
+                
+                .row-img {
+                    width: 50%;
+                    position: absolute;
+                    top: 10rem;
+                    left: 578px;
+                }
+                
+                .wrapper {
+                    max-width: 450px;
+                    min-height: 500px;
+                    margin: 80px auto;
+                    padding: 40px 30px 30px 30px;
+                    background-color: whitesmoke;
+                    border-radius: 15px;
+                    box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff
+                }
+                
+                .wrapper .name {
+                    font-weight: 600;
+                    font-size: 35px;
+                    text-align: center;
+                    color: darkblue;
+                }
+                
+                .wrapper .form-field input {
+                    width: 100%;
+                    display: block;
+                    border: none;
+                    outline: none;
+                    background: none;
+                    color: #666;
+                    padding: 12px 8px 12px 8px;
+                    font-size: 16px;
+                }
+                
+                .wrapper .form-field {
+                    padding-left: 8px;
+                    margin-bottom: 18px;
+                    border-radius: 8px;
+                    border: 1px solid #707070;
+                }
+                
+                .wrapper a {
+                    text-decoration: none;
+                    font-size: 0.8rem;
+                    color: darkblue;
+                }
+                
+                .banner-img {
+                    position: absolute;
+                    width: 80%;
+                    left: 300px;
+                    top: 100px;
+                }
+                
+                .page-footer {
+                    background-color: #363b82;
+                }
+                
+                .form-controller {
+                    border-radius: 10px;
+                    border: 1px solid black;
+                    padding: 12px;
+                }
+                
+                .form-controller {
+                    width: 100%;
+                }
+                
+                .sub-btn {
+                    background-color: white;
+                    color: darkblue;
+                    font-size: 18px;
+                    border-radius: 5px;
+                    padding: 6px;
+                }
+                
+                .mobile-apps a img {
+                    display: inline-block;
+                    height: 48px;
+                    margin-bottom: 0.5rem;
+                }
+                
+                .download-apps-image {
+                    width: 90%;
+                    position: relative;
+                    left: 0;
+                    top: -2rem;
+                }
+                
+                .btn-normal {
+                    text-decoration: none;
+                    background-color: #363b82;
+                    border: 1px solid;
+                    color: white;
+                    padding: 10px 10px;
+                    border-radius: 5px;
+                }
